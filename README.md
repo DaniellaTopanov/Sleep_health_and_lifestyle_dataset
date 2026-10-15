@@ -28,7 +28,7 @@ The five-predictor model explained 80.25% of the observed variation in sleep dur
 | Sleep quality (per scale point) | 0.575852 | < 2 × 10⁻¹⁶ | Higher sleep-quality scores were strongly associated with longer sleep duration. |
 | Resting heart rate (per BPM) | 0.026875 | 0.0000384 | Higher resting heart rate was associated with longer sleep duration in this fitted model. |
 
-A joint Wald test rejected the null that stress level and resting heart rate were both unrelated to sleep duration. The residual plots were reported as broadly consistent with linearity and constant variance, with no prominent influential outliers.
+A joint Wald test rejected the null that stress level and resting heart rate were both unrelated to sleep duration. The report's residual-plot review found residuals around zero without a clear funnel pattern; it did not report a formal influence statistic.
 
 ### Robustness check: activity by age
 
